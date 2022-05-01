@@ -1,7 +1,7 @@
 {
   "name": "react-material-dropdown-v4z",
-  "version": "1.0.0",
-  "description": "React material v4, dropdown or memu  (Limit or fit window)",
+  "version": "1.1.1",
+  "description": "React material v4, dropdown memu  (Limit or fit-height window)",
   "author": "Delpi.Kye",
   "license": "MIT",
   "source": "src/index.js",
@@ -84,9 +84,8 @@
     "typescript": "^4.4.2"
   },
   "dependencies": {
-    "@delpi/common": "0.0.9",
+    "@delpi/common": "0.0.10",
     "@material-ui/core": "^4.12.3",
-    "clsx": "^1.1.1",
     "react-material-tc-i4z": "^1.0.1-d",
     "tslib": "^2.3.0"
   }
